@@ -1,3 +1,2 @@
-1 + 1
-
-1 + "is the loneliest number"
+phrase = "is the lonliest number"
+  puts "The number one #{phrase}"
